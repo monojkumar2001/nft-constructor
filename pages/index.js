@@ -319,7 +319,7 @@ function Home() {
                     </p>
                   </div>
                   <div className="service-learn-more-btn">
-                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                  <Link href={"/defi-development"} className="learn-more-btns">
                      <p className="learn-more-btns">Learn More</p>
                     </Link>
                   </div>
@@ -348,7 +348,7 @@ function Home() {
                     </p>
                   </div>
                   <div className="service-learn-more-btn">
-                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                  <Link href={"/metaverse"} className="learn-more-btns">
                      <p className="learn-more-btns">Learn More</p>
                     </Link>
                   </div>
@@ -378,7 +378,7 @@ function Home() {
                     </p>
                   </div>
                   <div className="service-learn-more-btn">
-                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                  <Link href={"/marketing"} className="learn-more-btns">
                      <p className="learn-more-btns">Learn More</p>
                     </Link>
                   </div>
@@ -408,7 +408,7 @@ function Home() {
                     </p>
                   </div>
                   <div className="service-learn-more-btn">
-                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                  <Link href={"/website-design"} className="learn-more-btns">
                      <p className="learn-more-btns">Learn More</p>
                     </Link>
                   </div>
@@ -438,7 +438,7 @@ function Home() {
                     </p>
                   </div>
                   <div className="service-learn-more-btn">
-                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                  <Link href={"/smart-contract"} className="learn-more-btns">
                      <p className="learn-more-btns">Learn More</p>
                     </Link>
                   </div>
