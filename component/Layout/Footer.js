@@ -4,6 +4,21 @@ import Subscriber from "../../pages/inner/Subscriber";
 function Footer() {
   const [posts, setPosts] = useState([]);
 
+  const [sticky, setStickys] = useState(false);
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setStickys(true);
+      } else {
+        setStickys(false);
+      }
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   useEffect(() => {
     fetch("https://admin.nftconstructer.com/api/latest/there")
       .then((res) => res.json())
@@ -14,26 +29,26 @@ function Footer() {
 
   return (
     <>
-      <div className="footer-area">
+      <div className="footer-area cpb-6">
         <div className="container">
           <footer>
             <div className="footer-list">
               <p className="urbanist-white-18">NAVIGATE</p>
               <div>
-                <Link href={"/nft-website-development"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Home</p>
                 </Link>
-                <Link href={"/website-design"}>
+                <Link href={"/about"}>
                   <p className="urbanist-white-14">About Us</p>
                 </Link>
-                <Link href={"/smart-contract"}>
+                <Link href={"/blog"}>
                   <p className="urbanist-white-14">Blog</p>
                 </Link>
-                <Link href={"/smart-contract-analysis"}>
+                <Link href={"/contact"}>
                   <p className="urbanist-white-14">Contact Us</p>
                 </Link>
-                <Link href={"/website-analysis"}>
-                  <p className="urbanist-white-14">Marketing recommendations</p>
+                <Link href={""}>
+                  <p className="urbanist-white-14">Our works</p>
                 </Link>
               </div>
             </div>
@@ -43,36 +58,39 @@ function Footer() {
                 <Link href={"/nft-website-development"}>
                   <p className="urbanist-white-14">NFT Development </p>
                 </Link>
-                <Link href={"/website-design"}>
+                <Link href={"/defi-development"}>
                   <p className="urbanist-white-14">DeFi Development</p>
                 </Link>
-                <Link href={"/smart-contract"}>
-                  <p className="urbanist-white-14">Meta verse Development</p>
+                <Link href={"/metaverse"}>
+                  <p className="urbanist-white-14">Metaverse Development</p>
                 </Link>
-                <Link href={"/smart-contract-analysis"}>
+                <Link href={"/marketing"}>
                   <p className="urbanist-white-14">Marketing</p>
                 </Link>
-                <Link href={"/website-analysis"}>
+                <Link href={"/website-desgin"}>
                   <p className="urbanist-white-14">Website Design</p>
+                </Link>
+                <Link href={"/smart-contract"}>
+                  <p className="urbanist-white-14">Smart Contact Development</p>
                 </Link>
               </div>
             </div>
             <div className="footer-list">
               <p className="urbanist-white-18">Marketing Talent</p>
               <div>
-                <Link href={"/nft-website-development"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Privacy Policy</p>
                 </Link>
-                <Link href={"/website-design"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Cookies Policy</p>
                 </Link>
-                <Link href={"/smart-contract"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Refund Policy</p>
                 </Link>
-                <Link href={"/smart-contract-analysis"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Customer Support</p>
                 </Link>
-                <Link href={"/website-analysis"}>
+                <Link href={"/"}>
                   <p className="urbanist-white-14">Terms & Conditions</p>
                 </Link>
               </div>
@@ -81,27 +99,27 @@ function Footer() {
             <div className="footer-list">
               <p className="urbanist-white-18">Follow Us</p>
               <div>
-                <Link href={"/about"}>
-                  <p className="urbanist-white-14">Overview</p>
-                </Link>
-                <Link href={"/contact"}>
-                  <p className="urbanist-white-14">Data-based vetting</p>
-                </Link>
-                <Link href={"/terms"}>
-                  <p className="urbanist-white-14">Monitoring system</p>
-                </Link>
-                <Link href={"/portfolio"}>
-                  <p className="urbanist-white-14">Marketing recommendations</p>
-                </Link>
-                <Link href={"/blog"}>
-                  <p className="urbanist-white-14">Marketing consultation</p>
-                </Link>
+                <a href="https://www.facebook.com/nftconstructer" target={"_blank"}>
+                  <p className="urbanist-white-14">Facebook</p>
+                </a>
+                <a href="https://twitter.com/NftConstructer" target={"_blank"}>
+                  <p className="urbanist-white-14">Twitter</p>
+                </a>
+                <a href="https://instargam.com/NftConstructer" target={"_blank"}>
+                  <p className="urbanist-white-14">Instagram</p>
+                </a>
+                <a href="https://discord.com/NftConstructer" target={"_blank"}>
+                  <p className="urbanist-white-14">Discord</p>
+                </a>
+                <a href="https://Linkedin.com/NftConstructer" target={"_blank"}>
+                  <p className="urbanist-white-14">Linkedin</p>
+                </a>
               </div>
             </div>
           </footer>
         </div>
 
-        <div className="last-footer">
+        <div className="last-footer cpb-6">
           <div className="container">
             <div className="rowf">
               <div className="col-md-6">
@@ -192,7 +210,7 @@ function Footer() {
           </div>
         </div>
 
-        <div className="end-footer">
+        <div className={`${sticky ? "is-stickys" : ""} end-footer`}>
           <div className="container">
             <div className="row">
               <div className="col-md-12">
@@ -201,6 +219,18 @@ function Footer() {
 
                   <a href="" className="find-expert-btn">
                     Find an Expert
+                    <svg
+                      width="24"
+                      height="16"
+                      viewBox="0 0 24 16"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M23.7071 8.53132C24.0976 8.1408 24.0976 7.50763 23.7071 7.11711L17.3431 0.753149C16.9526 0.362625 16.3195 0.362625 15.9289 0.75315C15.5384 1.14367 15.5384 1.77684 15.9289 2.16736L21.5858 7.82422L15.9289 13.4811C15.5384 13.8716 15.5384 14.5048 15.9289 14.8953C16.3195 15.2858 16.9526 15.2858 17.3431 14.8953L23.7071 8.53132ZM8.74228e-08 8.82422L23 8.82422L23 6.82422L-8.74228e-08 6.82422L8.74228e-08 8.82422Z"
+                        fill="#ffffff"
+                      />
+                    </svg>
                   </a>
                 </div>
               </div>

@@ -15,6 +15,7 @@ import "aos/dist/aos.css";
 import "../styles/section/defi.css";
 import "../styles/section/marketing.css";
 import "../styles/section/metaverse.css";
+import "../styles/section/portfolio.css";
 
 import { Fragment, useEffect } from "react";
 import { useRouter } from "next/router";

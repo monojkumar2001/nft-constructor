@@ -502,10 +502,9 @@ function Metaverse() {
                         />
                       </div>
 
-                      <p>Conference</p>
+                      <p>Decentralization</p>
                       <p>
-                        This tells a user about the conference session’s agenda,
-                        speaker’s information, auditorium information, etc.
+                      With decentralized authority, users are able to create their own virtual experiences and assets with monetary value and trade them.
                       </p>
                     </div>
 

@@ -641,7 +641,7 @@ function DefiDevelopment() {
               <div className="container benefit-section">
                 <div className="title">
                   <p className="colorful-txt">BENIFITS OF</p>
-                  <h2>NFT Development</h2>
+                  <h2>NFT Web Design Services</h2>
                   <div className="title-line"></div>
                 </div>
 
@@ -667,7 +667,7 @@ function DefiDevelopment() {
                           src="assets/imgs/liquidity.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Liquidity</p>
+                        <p>Automation</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -676,7 +676,7 @@ function DefiDevelopment() {
                           src="assets/imgs/gas.png"
                           alt="nft constructer"
                         />
-                        <p>Lowest Gas Price</p>
+                        <p>Usage Of Smart Contract</p>
                       </div>
                     </div>
                     <div className="benefits-container">
@@ -687,7 +687,7 @@ function DefiDevelopment() {
                           src="assets/imgs/marketplace.png"
                           alt="nft constructer"
                         />
-                        <p>Multi-Chain NFT Marketplace</p>
+                        <p>Strategized <br/> Investment Plans</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -697,7 +697,7 @@ function DefiDevelopment() {
                           alt="nft constructer"
                         />
                         <p>
-                          Smart contract <br /> Audited NFT
+                        Lack Of the <br/> presence of a <br/> third party
                         </p>
                       </div>
                     </div>
@@ -710,7 +710,7 @@ function DefiDevelopment() {
                           src="assets/imgs/stakling.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Staking</p>
+                        <p>Highly Secure</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -719,7 +719,7 @@ function DefiDevelopment() {
                           src="assets/imgs/lending.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Lending</p>
+                        <p>Inmplementation <br/> of Pseudonymous <br/> Transactions</p>
                       </div>
                     </div>
 
@@ -731,7 +731,7 @@ function DefiDevelopment() {
                           src="assets/imgs/launchpad.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Launch Pad</p>
+                        <p>Ensures Global Access</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -740,7 +740,7 @@ function DefiDevelopment() {
                           src="assets/imgs/auction.png"
                           alt="nft constructer"
                         />
-                        <p>Bidding & Auction</p>
+                        <p>Interoperability</p>
                       </div>
                     </div>
                     <div className="benefits-container">

@@ -565,7 +565,7 @@ function Marketing() {
               <div className="container benefit-section">
                 <div className="title">
                   <p className="colorful-txt">BENIFITS OF</p>
-                  <h2>NFT Development</h2>
+                  <h2>Our Marketing Services</h2>
                   <div className="title-line"></div>
                 </div>
 
@@ -591,7 +591,7 @@ function Marketing() {
                           src="assets/imgs/liquidity.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Liquidity</p>
+                        <p>Increased Revenue</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -600,7 +600,7 @@ function Marketing() {
                           src="assets/imgs/gas.png"
                           alt="nft constructer"
                         />
-                        <p>Lowest Gas Price</p>
+                        <p>Brand Awareness</p>
                       </div>
                     </div>
                     <div className="benefits-container">
@@ -611,7 +611,7 @@ function Marketing() {
                           src="assets/imgs/marketplace.png"
                           alt="nft constructer"
                         />
-                        <p>Multi-Chain NFT Marketplace</p>
+                        <p>Transparency</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -621,7 +621,7 @@ function Marketing() {
                           alt="nft constructer"
                         />
                         <p>
-                          Smart contract <br /> Audited NFT
+                        Data Insight
                         </p>
                       </div>
                     </div>
@@ -634,7 +634,7 @@ function Marketing() {
                           src="assets/imgs/stakling.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Staking</p>
+                        <p>Authencity </p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -643,7 +643,7 @@ function Marketing() {
                           src="assets/imgs/lending.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Lending</p>
+                        <p>Organic Growth</p>
                       </div>
                     </div>
 
@@ -655,7 +655,7 @@ function Marketing() {
                           src="assets/imgs/launchpad.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Launch Pad</p>
+                        <p>Global Reach</p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -664,7 +664,7 @@ function Marketing() {
                           src="assets/imgs/auction.png"
                           alt="nft constructer"
                         />
-                        <p>Bidding & Auction</p>
+                        <p>Effective Targeting</p>
                       </div>
                     </div>
                     <div className="benefits-container">

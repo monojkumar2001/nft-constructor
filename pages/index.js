@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Link from "next/link";
 import AppLayout from "../component/Layout/Layout";
 import Faq from "react-faq-component";
 import CountUp from "react-countup";
@@ -240,7 +241,7 @@ function Home() {
                       alt="nft constructer"
                     />
                   </div>
-                  <p>Our  developers are there to support you 24/7</p>
+                  <p>Our developers are there to support you 24/7</p>
                 </div>
               </div>
             </div>
@@ -249,8 +250,6 @@ function Home() {
       </section>
       {/* =============service card section ================== */}
       <div className="white-bg cpt-6">
-    
-
         {/* ===================service section ================== */}
         <section>
           <div className="service cpy-6">
@@ -259,7 +258,9 @@ function Home() {
                 {/* <p className="sm-title">Our Services </p> */}
                 <h2 className="sec-title">Services</h2>
                 <p className="sec-des">
-                Prepare to launch a billion-dollar start-up on the NFT Fintech and Crypto Platform with its new, exciting features and capabilities.
+                  Prepare to launch a billion-dollar start-up on the NFT Fintech
+                  and Crypto Platform with its new, exciting features and
+                  capabilities.
                 </p>
               </div>
 
@@ -280,9 +281,17 @@ function Home() {
                   <div className="service-content">
                     <h3>NFT Development</h3>
                     <p>
-                    With NFT CONSTRUCTER, you can build a feature-rich, user-friendly NFT minting platform or marketplace without any coding or technical knowledge. 
-Enable your users to generate new coins without worrying about the blockchain's main plot.
+                      With NFT CONSTRUCTER, you can build a feature-rich,
+                      user-friendly NFT minting platform or marketplace without
+                      any coding or technical knowledge. Enable your users to
+                      generate new coins without worrying about the blockchain's
+                      main plot.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                    <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
                 <div
@@ -301,8 +310,18 @@ Enable your users to generate new coins without worrying about the blockchain's 
                   <div className="service-content">
                     <h3>DeFi Development </h3>
                     <p>
-                    Create your optimum DeFi protocol on blockchain networks to expand your business to new heights and participate in the financial future. As DeFi gives users more control because of its security and reliability, you can get your DeFi business developed on any of your desired blockchain networks.
+                      Create your optimum DeFi protocol on blockchain networks
+                      to expand your business to new heights and participate in
+                      the financial future. As DeFi gives users more control
+                      because of its security and reliability, you can get your
+                      DeFi business developed on any of your desired blockchain
+                      networks.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
                 <div
@@ -321,8 +340,17 @@ Enable your users to generate new coins without worrying about the blockchain's 
                   <div className="service-content">
                     <h3>Metaverse Development</h3>
                     <p>
-                    Create excellent, beneficial VR experiences in the metaverse as your business's next bold move towards success. By developing dynamically changing worlds, providing distinctive features and characters, and offering an exceptional interactive experience.
+                      Create excellent, beneficial VR experiences in the
+                      metaverse as your business's next bold move towards
+                      success. By developing dynamically changing worlds,
+                      providing distinctive features and characters, and
+                      offering an exceptional interactive experience.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
                 <div
@@ -341,8 +369,18 @@ Enable your users to generate new coins without worrying about the blockchain's 
                   <div className="service-content">
                     <h3>Marketing</h3>
                     <p>
-                    With our growth-hacking blockchain and NFT marketing strategies, you can secure your company's success. By using persona-based, content-driven engagement strategies, we help blockchain, cryptocurrency, and NFT projects maintain their relevance to target audiences and enhance their market value.
+                      With our growth-hacking blockchain and NFT marketing
+                      strategies, you can secure your company's success. By
+                      using persona-based, content-driven engagement strategies,
+                      we help blockchain, cryptocurrency, and NFT projects
+                      maintain their relevance to target audiences and enhance
+                      their market value.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
 
@@ -362,8 +400,17 @@ Enable your users to generate new coins without worrying about the blockchain's 
                   <div className="service-content">
                     <h3>Website Design</h3>
                     <p>
-                    Build cutting-edge DeFi platforms, advance the field of NFTs and blockchains with website designs which emphasise on good user experience, Simplicity and efficacy to ensure that visitors can quickly discover the information they require without being confused or overwhelmed.
+                      Build cutting-edge DeFi platforms, advance the field of
+                      NFTs and blockchains with website designs which emphasise
+                      on good user experience, Simplicity and efficacy to ensure
+                      that visitors can quickly discover the information they
+                      require without being confused or overwhelmed.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
 
@@ -383,8 +430,17 @@ Enable your users to generate new coins without worrying about the blockchain's 
                   <div className="service-content">
                     <h3>Smart Contract Development</h3>
                     <p>
-                    We create blockchain-agnostic smart contracts for your business that meets all the security standards, including consultancy, development, testing, and deployment of smart contract logic. You can produce effective, hack-proof, customizable blockchain-enabled smart contracts with us.
+                      We create blockchain-agnostic smart contracts for your
+                      business that meets all the security standards, including
+                      consultancy, development, testing, and deployment of smart
+                      contract logic. You can produce effective, hack-proof,
+                      customizable blockchain-enabled smart contracts with us.
                     </p>
+                  </div>
+                  <div className="service-learn-more-btn">
+                  <Link href={"/nft-website-development"} className="learn-more-btns">
+                     <p className="learn-more-btns">Learn More</p>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -393,7 +449,7 @@ Enable your users to generate new coins without worrying about the blockchain's 
         </section>
         {/* ===================service section end ================== */}
         {/* ===============price range============= */}
-            <PriceRangeSlider />
+        <PriceRangeSlider />
         {/* ===================ChainUP section  ================== */}
         <section>
           <div className="chainup-area cpb-6 cpt-7">
@@ -530,7 +586,7 @@ Enable your users to generate new coins without worrying about the blockchain's 
         <Newsletter />
         {/* ===================Newsletter section end ================== */}
 
-        {/* ================WHY CHOSE UP SECTION================  */}
+        {/* ================WHY CHOSE UP SECTION start================  */}
         <section>
           <div className="why-chose-area cpt-6">
             <div className="container">
@@ -540,7 +596,9 @@ Enable your users to generate new coins without worrying about the blockchain's 
                     <div className="left-title">
                       <h2 className="sec-title-left">Why Chose Us</h2>
                       <p className="sec-des">
-                      Use our customized  plans to bring in high-caliber clients who will spend a fortune at your site. To provide you a game-changing experience,
+                        Use our customized plans to bring in high-caliber
+                        clients who will spend a fortune at your site. To
+                        provide you a game-changing experience,
                       </p>
                     </div>
 
@@ -577,7 +635,8 @@ Enable your users to generate new coins without worrying about the blockchain's 
                         <div className="chose-list-item-content">
                           <h3>Affordable prices</h3>
                           <p>
-                          Use our personalized designing plans to bring in high-caliber clients at a very affordable cost.
+                            Use our personalized designing plans to bring in
+                            high-caliber clients at a very affordable cost.
                           </p>
                         </div>
                       </div>
@@ -616,6 +675,7 @@ Enable your users to generate new coins without worrying about the blockchain's 
             </div>
           </div>
         </section>
+        {/* ================WHY CHOSE UP SECTION end================  */}
 
         {/* =====================top project===================== */}
         <TopProject />
@@ -688,7 +748,8 @@ Enable your users to generate new coins without worrying about the blockchain's 
             <div className="section-title">
               <h2 className="sec-title">Million Of people Joining Us Daily</h2>
               <p className="sec-des">
-              Pay securely online and manage the booking via desktop or via the mobile app.  
+                Pay securely online and manage the booking via desktop or via
+                the mobile app.
               </p>
             </div>
             <div
@@ -731,9 +792,9 @@ Enable your users to generate new coins without worrying about the blockchain's 
           </div>
         </div>
         {/* ==========================faq end================== */}
-
+ {/* ===============================contact us start ================ */}
         <ContactBtn />
-        {/* ===============================contact us ================ */}
+{/* ===============================contact us end ================ */}
         <LetsTalk />
       </div>
     </>

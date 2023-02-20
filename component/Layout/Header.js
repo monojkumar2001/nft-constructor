@@ -270,7 +270,7 @@ function Header() {
                                   </div>
                                   <div className="multi-text">
                                     <p className="nav-title">NFT Development</p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More </p>
                                   </div>
                                 </a>
                               </Link>
@@ -285,7 +285,7 @@ function Header() {
                                     <p className="nav-title">
                                       Metaverse Development
                                     </p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More </p>
                                   </div>
                                 </a>
                               </Link>
@@ -298,7 +298,7 @@ function Header() {
                                   </div>
                                   <div className="multi-text">
                                     <p className="nav-title">Website Design</p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More </p>
                                   </div>
                                 </a>
                               </Link>
@@ -313,7 +313,7 @@ function Header() {
                                     <p className="nav-title">
                                       DeFi Development
                                     </p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More </p>
                                   </div>
                                 </a>
                               </Link>
@@ -326,7 +326,7 @@ function Header() {
                                   </div>
                                   <div className="multi-text">
                                     <p className="nav-title">Marketing</p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More </p>
                                   </div>
                                 </a>
                               </Link>
@@ -341,7 +341,7 @@ function Header() {
                                     <p className="nav-title">
                                       Smart Contract Development
                                     </p>
-                                    <p>Checkout our Packages</p>
+                                    <p>Learn More</p>
                                   </div>
                                 </a>
                               </Link>
