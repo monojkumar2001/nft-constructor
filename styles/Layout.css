@@ -91,7 +91,7 @@ ul.social-ul {
 
 a.dp-link {
   width: 100%;
-  padding: 14px 15px;
+  padding: 5px 15px;
   color: var(--second-color);
   transition: 0.3s;
   display: flex;
@@ -186,18 +186,21 @@ a.nav-link.login-btn {
   padding: 5px 20px;
   border-radius: 23px;
   transition: 0.3s;
+  display: flex;
+  align-items: center;
+gap: 10px;
 }
 
 a.nav-link.login-btn i {
   margin-right: 13px;
 }
 
-a.nav-link.login-btn:hover {
+/* a.nav-link.login-btn:hover {
   background: var(--second-color);
-}
+} */
 
 .menu-nav {
-  padding: 25px 0;
+  padding: 17px 0;
   background: var(--white-color);
   transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -233,7 +236,7 @@ a.nav-link.login-btn {
 }
 
 .close-d {
-  display: none;
+  display: block;
 }
 
 /* ====================media====================== */
@@ -334,8 +337,9 @@ a.dp-link:hover .icon-add svg path {
 } */
 
 p.nav-title {
-  font-weight: 600;
+  font-weight: 800;
   line-height: 114%;
+  font-size: 16px;
 }
 
 @media screen and (max-width: 1200px) {
