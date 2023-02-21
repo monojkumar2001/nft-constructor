@@ -91,7 +91,7 @@ ul.social-ul {
 
 a.dp-link {
   width: 100%;
-  padding: 5px 15px;
+  padding: 2px 15px;
   color: var(--second-color);
   transition: 0.3s;
   display: flex;
@@ -239,6 +239,9 @@ a.nav-link.login-btn {
   display: block;
 }
 
+.multi-text p{
+  font-size: 14px;
+}
 /* ====================media====================== */
 
 @media screen and (max-width: 1200px) {
@@ -305,7 +308,7 @@ a.nav-link.login-btn {
 li.nav-list:hover .dp-menu {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0px);
+  transform: translateY(7px);
 }
 
 .icon-add {
@@ -339,7 +342,7 @@ a.dp-link:hover .icon-add svg path {
 p.nav-title {
   font-weight: 800;
   line-height: 114%;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 1200px) {

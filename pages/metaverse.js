@@ -91,66 +91,66 @@ function Metaverse() {
       </noscript>
 
       <OfferA />
-      <div id="metaverseHero" class="cpy-5">
-        <div class="decor-balls">
+      <div id="metaverseHero" className="cpy-5">
+        <div className="decor-balls">
           <img src="assets/images/meta-boll-1.png" alt="nft constructer" />
         </div>
-        <div class="container">
-          <section class="hero cpy-5">
+        <div className="container">
+          <section className="hero cpy-5">
             <div
-              class="hero-content"
+              className="hero-content"
               data-aos="fade-up"
               data-aos-duration="1500"
             >
               <h1>Create your own platform-driven virtual world</h1>
 
-              <p class="raleway-black-16">
+              <p className="raleway-black-16">
                 We offer affordable bespoke development of full-featured
                 metaverse platforms.
               </p>
-              <div class="hero-btns">
-                <a href="#get-quoted" class="btn-hero-1">
+              <div className="hero-btns">
+                <a href="#get-quoted" className="btn-hero-1">
                   Get Started
                 </a>
-                <a href="#get-quoted" class="btn-hero-2">
+                <a href="#get-quoted" className="btn-hero-2">
                   Learn More
                 </a>
               </div>
             </div>
 
-            <div class="hero-img">
+            <div className="hero-img">
               <img
                 src="assets/images/meta-hero-img.png"
                 alt="Hero IMG"
-                class="hero-img-5"
+                className="hero-img-5"
               />
 
-              <div class="charts-container">
-                <div class="chart">
+              <div className="charts-container">
+                <div className="chart">
                   <div></div>
                 </div>
-                <div class="chart">
+                <div className="chart">
                   <div></div>
                 </div>
-                <div class="chart">
+                <div className="chart">
                   <div></div>
                 </div>
-                <div class="chart">
+                <div className="chart">
                   <div></div>
                 </div>
-                <div class="chart">
+                <div className="chart">
                   <div></div>
                 </div>
               </div>
               <img
                 src="assets/images/meta-star.png"
                 alt="nft constructer"
-                class="wheel"
+                className="wheel"
               />
               <img
                 src="assets/images/meta-web-icon.png"
                 alt="nft constructer"
-                class="decor-4"
+                className="decor-4"
               />
             </div>
           </section>
@@ -227,13 +227,13 @@ function Metaverse() {
         </div>
         {/* ==============pricing range end ============== */}
         {/* ===================service section ================== */}
-        <section class="our-services cpt-6">
-          <div class="container">
-            <div class="our-service-wrapper">
-              <div class="our-service-content">
-                <span class="short-title">OUR NON FUNGIBLE</span>
-                <h1 class="service-title">Metaverse Services</h1>
-                <p class="service-discription">
+        <section className="our-services cpt-6">
+          <div className="container">
+            <div className="our-service-wrapper">
+              <div className="our-service-content">
+                <span className="short-title">OUR NON FUNGIBLE</span>
+                <h1 className="service-title">Metaverse Services</h1>
+                <p className="service-discription">
                   Our metaverse development services are designed to help you
                   enhance your virtual reality experience by creating apps that
                   are especially tailored to the demands of your unique business
@@ -241,9 +241,9 @@ function Metaverse() {
                   solutions that integrate with your existing technology stack.
                 </p>
               </div>
-              <div class="our-service-items cpy-5">
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+              <div className="our-service-items cpy-5">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-1.png"
                       alt="nft-constructer"
@@ -251,8 +251,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Development Services</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-2.png"
                       alt="nft-constructer"
@@ -260,8 +260,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse NFT Marketplace Development</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-3.png"
                       alt="nft-constructer"
@@ -269,8 +269,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Healthcare Solutions</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-4.png"
                       alt="nft-constructer"
@@ -278,8 +278,8 @@ function Metaverse() {
                   </div>
                   <h3>NFT Metaverse Launchpad Development</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-5.png"
                       alt="nft-constructer"
@@ -287,8 +287,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse NFT Game Development</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-6.png"
                       alt="nft-constructer"
@@ -296,8 +296,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Art Gallery</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-7.png"
                       alt="nft-constructer"
@@ -305,8 +305,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Avatar Development</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-8.png"
                       alt="nft-constructer"
@@ -314,8 +314,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse 3D Space Development</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-9.png"
                       alt="nft-constructer"
@@ -323,8 +323,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Event Platform</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-10.png"
                       alt="nft-constructer"
@@ -332,8 +332,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Platform For Social Interaction</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-11.png"
                       alt="nft-constructer"
@@ -341,8 +341,8 @@ function Metaverse() {
                   </div>
                   <h3>Metaverse Virtual Working Space</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/meta-service/meta-12.png"
                       alt="nft-constructer"
@@ -795,9 +795,9 @@ function Metaverse() {
         <Newsletter />
         {/* ===================Newsletter section end ================== */}
 
-        {/* ===============Benefits================== */}
-        <section className="cpb-6">
-          <div id="inner-area">
+       {/* ===============Benefits================== */}
+       <section>
+          <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
             <div className="benefits-area">
               <div className="benefits-decor">
                 <img
@@ -822,15 +822,11 @@ function Metaverse() {
               <div className="container benefit-section">
                 <div className="title">
                   <p className="colorful-txt">BENIFITS OF</p>
-                  <h2>NFT Development</h2>
+                  <h2>Metaverse Development</h2>
                   <div className="title-line"></div>
                 </div>
 
-                <div
-                  className="spider"
-                  data-aos="fade-up"
-                  data-aos-duration="1000"
-                >
+                <div className="spider">
                   <img
                     height="auto"
                     width="auto"
@@ -845,19 +841,19 @@ function Metaverse() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/liquidity.png"
+                          src="assets/img/design/1.png"
                           alt="nft constructer"
                         />
-                        <p>NFT Liquidity</p>
+                        <p>Decentralized </p>
                       </div>
                       <div className="benefit-box">
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/gas.png"
+                          src="assets/img/design/5.png"
                           alt="nft constructer"
                         />
-                        <p>Lowest Gas Price</p>
+                        <p>Advanced UI</p>
                       </div>
                     </div>
                     <div className="benefits-container">
@@ -865,84 +861,72 @@ function Metaverse() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/marketplace.png"
+                          src="assets/img/design/2.png"
                           alt="nft constructer"
                         />
-                        <p>Multi-Chain NFT Marketplace</p>
+                        <p>User Administration</p>
                       </div>
                       <div className="benefit-box">
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/smart-contract.png"
+                          src="assets/img/design/6.png"
+                          alt="nft constructer"
+                        />
+                        <p>Goverrance Attribute</p>
+                      </div>
+                    </div>
+
+                    <div className="benefits-container">
+                      <div className="benefit-box">
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/img/design/3.png"
+                          alt="nft constructer"
+                        />
+                        <p>Verification Factor</p>
+                      </div>
+                      <div className="benefit-box">
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/img/design/7.png"
+                          alt="nft constructer"
+                        />
+                        <p>Enchanced Storage</p>
+                      </div>
+                    </div>
+
+                    <div className="benefits-container">
+                      <div className="benefit-box">
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/img/design/4.png"
+                          alt="nft constructer"
+                        />
+                        <p>Economy</p>
+                      </div>
+                      <div className="benefit-box">
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/img/design/8.png"
                           alt="nft constructer"
                         />
                         <p>
-                          Smart contract <br /> Audited NFT
+                        High Textured <br/>Graphics 
                         </p>
                       </div>
                     </div>
-
                     <div className="benefits-container">
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/stakling.png"
-                          alt="nft constructer"
-                        />
-                        <p>NFT Staking</p>
-                      </div>
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/lending.png"
-                          alt="nft constructer"
-                        />
-                        <p>NFT Lending</p>
-                      </div>
-                    </div>
-
-                    <div className="benefits-container">
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/launchpad.png"
-                          alt="nft constructer"
-                        />
-                        <p>NFT Launch Pad</p>
-                      </div>
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/auction.png"
-                          alt="nft constructer"
-                        />
-                        <p>Bidding & Auction</p>
-                      </div>
-                    </div>
-                    <div className="benefits-container">
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/ownership.png"
-                          alt="nft constructer"
-                        />
-                        <p>Fractional Ownership</p>
-                      </div>
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/minting.png"
-                          alt="nft constructer"
-                        />
-                        <p>Lazy Minting</p>
-                      </div>
+                      <a href="#" className="carcel-btn">
+                        Get NFT Solution
+                      </a>
+                      <a href="#" className="carcel-btn-alt">
+                        Discuss Your Project
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -956,15 +940,15 @@ function Metaverse() {
         <TopProject />
         {/* ===============top project end=============== */}
         {/* <!--  ============ business grow start =============--> */}
-        <section class="business-grow cpb-7">
-          <div class="container">
-            <div class="business-warrper">
-              <div class="business-left">
-                <div class="business-items">
-                  <div class="business-item boxx">
+        <section className="business-grow cpb-7">
+          <div className="container">
+            <div className="business-warrper">
+              <div className="business-left">
+                <div className="business-items">
+                  <div className="business-item boxx">
                     <span>01</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Fill in your brief</h3>
                     <p>
                       Our allotted designers team will make a wireframe then we
@@ -972,11 +956,11 @@ function Metaverse() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>02</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Get confirmation</h3>
                     <p>
                       Launching  a new NFT DeFi Or fintech start up? Do you need
@@ -985,11 +969,11 @@ function Metaverse() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>03</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Manage your team</h3>
                     <p>
                       Our developers will start working to make the whole
@@ -999,11 +983,11 @@ function Metaverse() {
                   </div>
                 </div>
               </div>
-              <div class="business-right">
-                <div class="business-img">
+              <div className="business-right">
+                <div className="business-img">
                   <img src="./assets/images/business-grow-img.png" alt="" />
                 </div>
-                <div class="business-btn">
+                <div className="business-btn">
                   <button>How it works</button>
                   <img src="./assets/images/right-arrow.svg" alt="" />
                 </div>

@@ -1418,15 +1418,15 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
         {/* ===============top project end=============== */}
 
   {/* <!--  ============ business grow start =============--> */}
-  <section class="business-grow cpb-7">
-          <div class="container">
-            <div class="business-warrper">
-              <div class="business-left">
-                <div class="business-items">
-                  <div class="business-item boxx">
+  <section className="business-grow cpb-7">
+          <div className="container">
+            <div className="business-warrper">
+              <div className="business-left">
+                <div className="business-items">
+                  <div className="business-item boxx">
                     <span>01</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Fill in your brief</h3>
                     <p>
                       Our allotted designers team will make a wireframe then we
@@ -1434,11 +1434,11 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>02</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Get confirmation</h3>
                     <p>
                       Launching  a new NFT DeFi Or fintech start up? Do you need
@@ -1447,11 +1447,11 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>03</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Manage your team</h3>
                     <p>
                       Our developers will start working to make the whole
@@ -1461,11 +1461,11 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
                   </div>
                 </div>
               </div>
-              <div class="business-right">
-                <div class="business-img">
+              <div className="business-right">
+                <div className="business-img">
                   <img src="./assets/images/business-grow-img.png" alt="" />
                 </div>
-                <div class="business-btn">
+                <div className="business-btn">
                   <button>How it works</button>
                   <img src="./assets/images/right-arrow.svg" alt="" />
                 </div>

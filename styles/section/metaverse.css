@@ -382,13 +382,14 @@ width: 100%;
   .forms-item .form-input input{
     width: 100% !important; 
   }
-  .company-img{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
   .create-metaverse-list ul {
     padding-left: 30px;
+  }
+  .all-company-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 40px;
   }
 }
 @media screen and (max-width: 550px) {
@@ -401,7 +402,7 @@ width: 100%;
     padding: 10px;
 }
 .all-company-list{
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 10px;
 }
 .meta-forms{

@@ -148,6 +148,7 @@
   font-weight: 400;
   display: flex;
   align-items: center;
+  font-family: 'Urbanist', sans-serif;
 }
 
 #home1 .service ul li i {
@@ -2523,11 +2524,13 @@ a.service-name {
   font-size: 16px;
   font-weight: 800;
   transition: 0.3s;
+  font-family: 'Urbanist', sans-serif;
 }
 
 .row-col-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 20px;
 }
 
 .about-us-content {
@@ -2567,12 +2570,16 @@ img.cr8-img {
 
 .about-us {
   position: relative;
+  margin-top: 30px;
 }
 
 @media screen and (max-width: 992px) {
   img.cr6-img,
   img.cr8-img {
     display: none;
+  }
+  .about-us {
+    margin-top: 80px;
   }
 }
 
@@ -2868,6 +2875,7 @@ color: var(--white-color);
   font-size: 30px;
   color: #323232;
   margin-bottom: 5px;
+  font-family: 'Urbanist', sans-serif;
 }
 
 .chainup-title {
@@ -6584,7 +6592,7 @@ button#button-addon2 {
 }
 
 .last-footer {
-  border-top: 1px solid #ff8181;
+  border-top: 1px solid var(--main-color);
   padding: 35px 0;
 }
 
@@ -6798,6 +6806,7 @@ p.read-time {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 35px;
+  align-items: center;
 }
 
 .chose-list-item {
@@ -6910,6 +6919,7 @@ a.btn.btn-primary {
 
 .last-footer-content {
   color: #292929;
+  font-family: 'Urbanist', sans-serif;
 }
 
 

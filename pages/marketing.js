@@ -91,28 +91,28 @@ function Marketing() {
       </noscript>
 
       <OfferA />
-      <section class="marketing-hero cpy-5 cpb-6">
-        <div class="container">
-          <div class="marketing-hero-warrper">
-            <div class="hero-content">
+      <section className="marketing-hero cpy-5 cpb-6">
+        <div className="container">
+          <div className="marketing-hero-warrper">
+            <div className="hero-content">
               <h1>Proven Marketing Plans For Non Fungible Token Sales</h1>
-              <p class="raleway-black-16">
+              <p className="raleway-black-16">
                 Our marketers trive on executing customized marketing plans with
                 boldest ideas to reality specifically designed for Crypto Nft
                 Defi start ups.
               </p>
-              <div class="hero-btns">
-                <a href="#get-quoted" class="btn-hero-1">
+              <div className="hero-btns">
+                <a href="#get-quoted" className="btn-hero-1">
                   Get Started
                 </a>
-                <a href="#get-quoted" class="btn-hero-2">
+                <a href="#get-quoted" className="btn-hero-2">
                   Learn More
                 </a>
               </div>
             </div>
           </div>
         </div>
-        <div class="marketing-balls">
+        <div className="marketing-balls">
           <img src="./assets/images/marketing-boll-1.png" alt="" />
           <img src="./assets/images/marketing-boll-2.png" alt="" />
           <img src="./assets/images/marketing-boll-3.png" alt="" />
@@ -120,8 +120,8 @@ function Marketing() {
       </section>
 
       {/* <!-- =============== marketing dashbord start =========== --> */}
-      <section class="mareting-dashbord">
-        <div class="dashbord-img">
+      <section className="mareting-dashbord">
+        <div className="dashbord-img">
           <img src="./assets/images/marketing-dasboard-img.png" alt="" />
         </div>
       </section>
@@ -199,19 +199,19 @@ function Marketing() {
         </div>
         {/* ==============pricing range end ============== */}
         {/* ===================service section ================== */}
-        <section class="our-services cpt-6">
-          <div class="container">
-            <div class="our-service-wrapper">
-              <div class="our-service-content">
-                <span class="short-title">OUR NON FUNGIBLE</span>
-                <h1 class="service-title">Marketing Services</h1>
-                <p class="service-discription">
+        <section className="our-services cpt-6">
+          <div className="container">
+            <div className="our-service-wrapper">
+              <div className="our-service-content">
+                <span className="short-title">OUR NON FUNGIBLE</span>
+                <h1 className="service-title">Marketing Services</h1>
+                <p className="service-discription">
                 Being a top NFT token development company, our non-fungible token development services facilitate the digital assets to be tokenized for collection. Majorly, we work on Ethereum NFTs, which are too popular in the market. SemiDot helps you to launch your NFT for all your business needs.
                 </p>
               </div>
-              <div class="our-service-items cpy-5">
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+              <div className="our-service-items cpy-5">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-1.png"
                       alt=""
@@ -219,8 +219,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Marketing Services</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-2.png"
                       alt=""
@@ -228,8 +228,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Marketplace Marketing Services</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-3.png"
                       alt=""
@@ -237,8 +237,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Collectibles Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-4.png"
                       alt=""
@@ -246,8 +246,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Game Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-5.png"
                       alt=""
@@ -255,8 +255,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Telegram Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-6.png"
                       alt=""
@@ -264,8 +264,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Influencer Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-7.png"
                       alt=""
@@ -273,8 +273,8 @@ function Marketing() {
                   </div>
                   <h3>Influencer Marketing Agency</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-8.png"
                       alt=""
@@ -282,8 +282,8 @@ function Marketing() {
                   </div>
                   <h3>NFT PR/Media Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-9.png"
                       alt=""
@@ -291,8 +291,8 @@ function Marketing() {
                   </div>
                   <h3>NFT Discord Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-10.png"
                       alt=""
@@ -300,8 +300,8 @@ function Marketing() {
                   </div>
                   <h3>Discord Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-11.png"
                       alt=""
@@ -309,8 +309,8 @@ function Marketing() {
                   </div>
                   <h3>Discord Server Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-12.png"
                       alt=""
@@ -318,8 +318,8 @@ function Marketing() {
                   </div>
                   <h3>Discord Brand Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-13.png"
                       alt=""
@@ -327,8 +327,8 @@ function Marketing() {
                   </div>
                   <h3>Discord Game Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-14.png"
                       alt=""
@@ -336,8 +336,8 @@ function Marketing() {
                   </div>
                   <h3>DeFi Marketing Services</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-15.png"
                       alt=""
@@ -345,8 +345,8 @@ function Marketing() {
                   </div>
                   <h3>Cryptocurrency Exchange Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-16.png"
                       alt=""
@@ -354,8 +354,8 @@ function Marketing() {
                   </div>
                   <h3>Web3 Marketing Services</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-17.png"
                       alt=""
@@ -363,8 +363,8 @@ function Marketing() {
                   </div>
                   <h3>ICO Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-18.png"
                       alt=""
@@ -372,8 +372,8 @@ function Marketing() {
                   </div>
                   <h3>ICO Community Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-19.png"
                       alt=""
@@ -381,8 +381,8 @@ function Marketing() {
                   </div>
                   <h3>ICO Influencer Marketing</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/marketing-service/marketing-20.png"
                       alt=""
@@ -538,9 +538,10 @@ function Marketing() {
         <Newsletter />
         {/* ===================Newsletter section end ================== */}
 
-        {/* ===============Benefits================== */}
-        <section>
-          <div id="inner-area">
+       
+       {/* ===============Benefits================== */}
+       <section>
+          <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
             <div className="benefits-area">
               <div className="benefits-decor">
                 <img
@@ -565,15 +566,11 @@ function Marketing() {
               <div className="container benefit-section">
                 <div className="title">
                   <p className="colorful-txt">BENIFITS OF</p>
-                  <h2>Our Marketing Services</h2>
+                  <h2> Nft Marketing </h2>
                   <div className="title-line"></div>
                 </div>
 
-                <div
-                  className="spider"
-                  data-aos="fade-up"
-                  data-aos-duration="1000"
-                >
+                <div className="spider">
                   <img
                     height="auto"
                     width="auto"
@@ -588,7 +585,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/liquidity.png"
+                          src="assets/img/design/1.png"
                           alt="nft constructer"
                         />
                         <p>Increased Revenue</p>
@@ -597,7 +594,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/gas.png"
+                          src="assets/img/design/5.png"
                           alt="nft constructer"
                         />
                         <p>Brand Awareness</p>
@@ -608,7 +605,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/marketplace.png"
+                          src="assets/img/design/2.png"
                           alt="nft constructer"
                         />
                         <p>Transparency</p>
@@ -617,12 +614,10 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/smart-contract.png"
+                          src="assets/img/design/6.png"
                           alt="nft constructer"
                         />
-                        <p>
-                        Data Insight
-                        </p>
+                        <p>Data Insight</p>
                       </div>
                     </div>
 
@@ -631,7 +626,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/stakling.png"
+                          src="assets/img/design/3.png"
                           alt="nft constructer"
                         />
                         <p>Authencity </p>
@@ -640,7 +635,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/lending.png"
+                          src="assets/img/design/7.png"
                           alt="nft constructer"
                         />
                         <p>Organic Growth</p>
@@ -652,7 +647,7 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/launchpad.png"
+                          src="assets/img/design/4.png"
                           alt="nft constructer"
                         />
                         <p>Global Reach</p>
@@ -661,31 +656,21 @@ function Marketing() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/auction.png"
+                          src="assets/img/design/8.png"
                           alt="nft constructer"
                         />
-                        <p>Effective Targeting</p>
+                        <p>
+                        Effective Targeting
+                        </p>
                       </div>
                     </div>
                     <div className="benefits-container">
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/ownership.png"
-                          alt="nft constructer"
-                        />
-                        <p>Fractional Ownership</p>
-                      </div>
-                      <div className="benefit-box">
-                        <img
-                          height="auto"
-                          width="auto"
-                          src="assets/imgs/minting.png"
-                          alt="nft constructer"
-                        />
-                        <p>Lazy Minting</p>
-                      </div>
+                      <a href="#" className="carcel-btn">
+                        Get NFT Solution
+                      </a>
+                      <a href="#" className="carcel-btn-alt">
+                        Discuss Your Project
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -699,15 +684,15 @@ function Marketing() {
         <TopProject />
         {/* ===============top project end=============== */}
   {/* <!--  ============ business grow start =============--> */}
-  <section class="business-grow cpb-7">
-          <div class="container">
-            <div class="business-warrper">
-              <div class="business-left">
-                <div class="business-items">
-                  <div class="business-item boxx">
+  <section className="business-grow cpb-7">
+          <div className="container">
+            <div className="business-warrper">
+              <div className="business-left">
+                <div className="business-items">
+                  <div className="business-item boxx">
                     <span>01</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Fill in your brief</h3>
                     <p>
                       Our allotted designers team will make a wireframe then we
@@ -715,11 +700,11 @@ function Marketing() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>02</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Get confirmation</h3>
                     <p>
                       Launching  a new NFT DeFi Or fintech start up? Do you need
@@ -728,11 +713,11 @@ function Marketing() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>03</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Manage your team</h3>
                     <p>
                       Our developers will start working to make the whole
@@ -742,11 +727,11 @@ function Marketing() {
                   </div>
                 </div>
               </div>
-              <div class="business-right">
-                <div class="business-img">
+              <div className="business-right">
+                <div className="business-img">
                   <img src="./assets/images/business-grow-img.png" alt="" />
                 </div>
-                <div class="business-btn">
+                <div className="business-btn">
                   <button>How it works</button>
                   <img src="./assets/images/right-arrow.svg" alt="" />
                 </div>

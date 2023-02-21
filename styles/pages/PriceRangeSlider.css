@@ -52,6 +52,9 @@
     text-align: center;
     position: relative;
 }
+.left-range p{
+    font-family: 'Urbanist', sans-serif;
+}
 
 .css-187mznn-MuiSlider-root {
     color: var(--main-color) !important;
@@ -60,11 +63,13 @@
 
 h3.range-title {
     font-size: 34px;
+    line-height: 50px;
 }
 
 h2.range-total {
     font-size: 30px;
     margin: 28px 0;
+    font-family: 'Urbanist', sans-serif;
 }
 
 .get-start-btn {
@@ -89,6 +94,7 @@ h2.range-total {
 h2.month-price {
     font-size: 30px;
     margin-bottom: 10px;
+    font-family: 'Urbanist', sans-serif;
 }
 
 h2.month-price span {
@@ -113,3 +119,48 @@ h2.month-price span {
     width: 70%;
     margin-bottom: 50px;
 }
+@media screen and (max-width: 992px) {
+    .range-area {
+        grid-template-columns: 100%;
+        gap: 8%;
+    }
+    h2.range-total {
+        font-size: 30px;
+        margin: 20px 0;
+    }
+    .left-range::after{
+        display: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    .range-area {
+        grid-template-columns: 100%;
+        gap: 8%;
+        padding: 20px 20px 50px 20px;
+    }
+    .price-range-width{
+        width: 100%;
+    }   
+}
+@media screen and (max-width: 500px) {
+    .range-area {
+        grid-template-columns: 100%;
+        gap: 8%;
+        padding: 20px 20px 50px 20px;
+    }
+    .price-range-width{
+        width: 100%;
+    }
+    h3.range-title {
+        font-size: 23px;
+        line-height: 40px;
+    }
+    h2.range-total {
+        font-size: 25px;
+    }
+    h2.month-price {
+        font-size: 25px;
+    }
+    
+}
+

@@ -372,19 +372,19 @@ function HiCoin() {
         {/* ===================demo request section end ================== */}
 
         {/* ===================service section ================== */}
-        <section class="our-services cpt-6">
-          <div class="container">
-            <div class="our-service-wrapper">
-              <div class="our-service-content">
-                <span class="short-title">OUR NON FUNGIBLE</span>
-                <h2 class="sec-title">Token Development Services</h2>
-                <p class="service-discription">
+        <section className="our-services cpt-6">
+          <div className="container">
+            <div className="our-service-wrapper">
+              <div className="our-service-content">
+                <span className="short-title">OUR NON FUNGIBLE</span>
+                <h2 className="sec-title">Token Development Services</h2>
+                <p className="service-discription">
                 Being a top NFT token development company, our non-fungible token development services facilitate the digital assets to be tokenized for collection. Majorly, we work on Ethereum NFTs, which are too popular in the market. SemiDot helps you to launch your NFT for all your business needs.
                 </p>
               </div>
-              <div class="our-service-items cpy-5">
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+              <div className="our-service-items cpy-5">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                     <img
                       src="/assets/images/nft-development/1.png"
                       alt="nftconstructer"
@@ -392,8 +392,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Minting Platform</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/2.png"
                       alt="nftconstructer"
@@ -401,8 +401,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Marketplace </h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/3.png"
                       alt="nftconstructer"
@@ -410,8 +410,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Launchpad</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/4.png"
                       alt="nftconstructer"
@@ -419,8 +419,8 @@ function HiCoin() {
                   </div>
                   <h3>Cross-Chain NFT Minting Platform</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/5.png"
                       alt="nftconstructer"
@@ -428,8 +428,8 @@ function HiCoin() {
                   </div>
                   <h3>Mult-Chain NFT Marketplace</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/6.png"
                       alt="nftconstructer"
@@ -437,8 +437,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Token Development </h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/7.png"
                       alt="nftconstructer"
@@ -446,8 +446,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Marketplace With Governance</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/8.png"
                       alt="nftconstructer"
@@ -455,8 +455,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Ticketing Marketplace</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/9.png"
                       alt="nftconstructer"
@@ -464,8 +464,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT For Real state</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/10.png"
                       alt="nftconstructer"
@@ -473,8 +473,8 @@ function HiCoin() {
                   </div>
                   <h3>DAO Enabled NFT</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/11.png"
                       alt="nftconstructer"
@@ -482,8 +482,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Swapping Platform </h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/12.png"
                       alt="nftconstructer"
@@ -491,8 +491,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Staking Platform</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/13.png"
                       alt="nftconstructer"
@@ -500,8 +500,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Game Marketplace</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/14.png"
                       alt="nftconstructer"
@@ -509,8 +509,8 @@ function HiCoin() {
                   </div>
                   <h3>Physical NFT</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/15.png"
                       alt="nftconstructer"
@@ -518,8 +518,8 @@ function HiCoin() {
                   </div>
                   <h3>Physical NFT Marketplace</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/16.png"
                       alt="nftconstructer"
@@ -527,8 +527,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Wallet</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/17.png"
                       alt="nftconstructer"
@@ -536,8 +536,8 @@ function HiCoin() {
                   </div>
                   <h3>Fractional NFT Marketplace</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/18.png"
                       alt="nftconstructer"
@@ -545,8 +545,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Governance Token</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/19.png"
                       alt="nftconstructer"
@@ -554,8 +554,8 @@ function HiCoin() {
                   </div>
                   <h3>NFT Social Platform</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/20.png"
                       alt="nftconstructer"
@@ -563,8 +563,8 @@ function HiCoin() {
                   </div>
                   <h3>Ecommerce Based NFT Store</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/21.png"
                       alt="nftconstructer"
@@ -572,8 +572,8 @@ function HiCoin() {
                   </div>
                   <h3>Asset Lifecycle Management</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/22.png"
                       alt="nftconstructer"
@@ -581,8 +581,8 @@ function HiCoin() {
                   </div>
                   <h3>Software License Management</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/23.png"
                       alt="nftconstructer"
@@ -590,8 +590,8 @@ function HiCoin() {
                   </div>
                   <h3>Real Estate Tokenization</h3>
                 </div>
-                <div class="our-service-item">
-                  <div class="our-service-icon">
+                <div className="our-service-item">
+                  <div className="our-service-icon">
                   <img
                       src="/assets/images/nft-development/24.png"
                       alt="nftconstructer"
@@ -1510,6 +1510,31 @@ function HiCoin() {
                         a Governance attribute.
                       </p>
                     </div>
+                    <div
+                      className="service"
+                      data-aos="fade-up"
+                      data-aos-duration="1500"
+                    >
+                      <div className="services-icon">
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/imgs/authen-1.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          height="auto"
+                          width="auto"
+                          src="assets/imgs/authen-2.png"
+                          alt="nft constructer"
+                        />
+                      </div>
+
+                      <p>Authenticity</p>
+                      <p>
+                      Each Non-Fungible Token is unique and distinct by itself.  No NFTs can be copied or duplicated, demonstrating their authenticity.
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1683,15 +1708,15 @@ function HiCoin() {
 
 
         {/* <!--  ============ business grow start =============--> */}
-        <section class="business-grow cpb-7">
-          <div class="container">
-            <div class="business-warrper">
-              <div class="business-left">
-                <div class="business-items">
-                  <div class="business-item boxx">
+        <section className="business-grow cpb-7">
+          <div className="container">
+            <div className="business-warrper">
+              <div className="business-left">
+                <div className="business-items">
+                  <div className="business-item boxx">
                     <span>01</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Fill in your brief</h3>
                     <p>
                       Our allotted designers team will make a wireframe then we
@@ -1699,11 +1724,11 @@ function HiCoin() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>02</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Get confirmation</h3>
                     <p>
                       Launching  a new NFT DeFi Or fintech start up? Do you need
@@ -1712,11 +1737,11 @@ function HiCoin() {
                     </p>
                   </div>
                 </div>
-                <div class="business-items">
-                  <div class="business-item">
+                <div className="business-items">
+                  <div className="business-item">
                     <span>03</span>
                   </div>
-                  <div class="business-item">
+                  <div className="business-item">
                     <h3>Manage your team</h3>
                     <p>
                       Our developers will start working to make the whole
@@ -1726,11 +1751,11 @@ function HiCoin() {
                   </div>
                 </div>
               </div>
-              <div class="business-right">
-                <div class="business-img">
+              <div className="business-right">
+                <div className="business-img">
                   <img src="./assets/images/business-grow-img.png" alt="" />
                 </div>
-                <div class="business-btn">
+                <div className="business-btn">
                   <button>How it works</button>
                   <img src="./assets/images/right-arrow.svg" alt="" />
                 </div>

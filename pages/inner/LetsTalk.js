@@ -2,14 +2,14 @@ import React from "react";
 
 function letsTalk() {
   return (
-    <section class="create-metaverse cpb-6">
-      <div class="container">
-        <div class="create-metaverse-wrapper">
-          <div class="create-metaverse-left">
-            <h1 class="create-title">
+    <section className="create-metaverse cpb-6">
+      <div className="container">
+        <div className="create-metaverse-wrapper">
+          <div className="create-metaverse-left">
+            <h1 className="create-title">
               Tell us about your brand & marketing needs
             </h1>
-            <div class="create-metaverse-list">
+            <div className="create-metaverse-list">
               <h4>Book a demo and discovery call to get a look at:</h4>
               <ul>
                 <li>How NFT Constructor works</li>
@@ -24,34 +24,34 @@ function letsTalk() {
                 <li>The most suitable pricing plan according to your needs.</li>
               </ul>
             </div>
-            <div class="all-company-list">
-              <div class="company-img">
+            <div className="all-company-list">
+              <div className="company-img">
                 <img src="./assets/images/stackware.png" alt="" />
               </div>
-              <div class="company-img">
+              <div className="company-img">
                 <img src="./assets/images/prime-trust.png" alt="" />
               </div>
-              <div class="company-img">
+              <div className="company-img">
                 <img src="./assets/images/solana.png" alt="" />
               </div>
-              <div class="company-img">
+              <div className="company-img">
                 <img src="./assets/images/consensys.png" alt="" />
               </div>
-              <div class="company-img">
+              <div className="company-img">
                 <img src="./assets/images/alchemy.png" alt="" />
               </div>
-              <div class="company-img">
+              <div className="company-img">
                 <img src="./assets/images/coinbase.png" alt="" />
               </div>
             </div>
           </div>
-          <div class="create-metaverse-right">
-            <div class="meta-forms">
+          <div className="create-metaverse-right">
+            <div className="meta-forms">
               <form action="">
-                <div class="forms-fullname">
-                  <div class="meta-forms-item">
+                <div className="forms-fullname">
+                  <div className="meta-forms-item">
                     <label for="">First Name</label>
-                    <div class="form-input">
+                    <div className="form-input">
                       <input
                         type="text"
                         name=""
@@ -60,9 +60,9 @@ function letsTalk() {
                       />
                     </div>
                   </div>
-                  <div class="meta-forms-item">
+                  <div className="meta-forms-item">
                     <label for="">Last Name</label>
-                    <div class="form-input">
+                    <div className="form-input">
                       <input
                         type="text"
                         name=""
@@ -72,9 +72,9 @@ function letsTalk() {
                     </div>
                   </div>
                 </div>
-                <div class="meta-forms-item">
+                <div className="meta-forms-item">
                   <label for="">Email</label>
-                  <div class="form-input">
+                  <div className="form-input">
                     <input
                       type="email"
                       name=""
@@ -83,9 +83,9 @@ function letsTalk() {
                     />
                   </div>
                 </div>
-                <div class="meta-forms-item">
+                <div className="meta-forms-item">
                   <label for="">Company</label>
-                  <div class="form-input">
+                  <div className="form-input">
                     <input
                       type="email"
                       name=""
@@ -94,9 +94,9 @@ function letsTalk() {
                     />
                   </div>
                 </div>
-                <div class="meta-forms-item">
+                <div className="meta-forms-item">
                   <label for="size">Company Size</label>
-                  <div class="select-form">
+                  <div className="select-form">
                     <select name="size" id="size">
                       <option value="one">Select One</option>
                       <option value="two">Saab</option>
@@ -105,9 +105,9 @@ function letsTalk() {
                     </select>
                   </div>
                 </div>
-                <div class="meta-forms-item">
+                <div className="meta-forms-item">
                   <label for="">Phone Number</label>
-                  <div class="form-input">
+                  <div className="form-input">
                     <input
                       type="number"
                       name=""
@@ -120,8 +120,8 @@ function letsTalk() {
                   We need your phone number for the demo. We'll never use it for
                   any other purposes.
                 </p>
-                <div class="meta-forms-item">
-                  <input class="submit-btn" type="submit" value="Let’s Talk" />
+                <div className="meta-forms-item">
+                  <input className="submit-btn" type="submit" value="Let’s Talk" />
                 </div>
               </form>
             </div>
