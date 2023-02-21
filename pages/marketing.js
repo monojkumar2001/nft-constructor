@@ -744,7 +744,7 @@ function Marketing() {
         <Review />
         {/* =====================happy clients end======================= */}
         {/* ==========================faq================== */}
-        <div className="faqs-section cpt-6">
+        <div className="faqs-section cpt-6 cpb-6">
           <div className="container">
             <div className="faq-wrapper">
               <div className="left-faq">

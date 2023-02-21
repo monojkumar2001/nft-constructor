@@ -770,7 +770,7 @@ function Coin() {
         {/* ==================Features================== */}
         <section>
           <div id="inner-area">
-            <div className="features cpy-6">
+            <div className="features cpt-6">
               <div className="services-decor">
                 <img
                   height="auto"
@@ -1086,7 +1086,7 @@ function Coin() {
                 <div className="business-img">
                   <img src="./assets/images/business-grow-img.png" alt="" />
                 </div>
-                <div className="business-btn">
+                <div class="business-btn">
                   <button>How it works</button>
                   <img src="./assets/images/right-arrow.svg" alt="" />
                 </div>

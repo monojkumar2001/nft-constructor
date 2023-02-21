@@ -1061,7 +1061,7 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
         {/* ==================Features================== */}
         <section>
           <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
-            <div className="features cpy-6">
+            <div className="features cpb-6 ">
               <div className="services-decor">
                 <img
                   height="auto"
@@ -1301,7 +1301,7 @@ Our NFT Smart Contract Developers provide NFT Smart Contracts thoroughly tested 
         {/* ===============Benefits end================== */}
         {/* ==================benefit================== */}
         <section>
-          <div className="bene cpy-6">
+          <div className="bene cpt-6">
             <div className="container">
               <div
                 className="section-title"

@@ -134,4 +134,19 @@
 .our-service-item:hover p{
     color: #ffffff;
 }
+@media screen and (max-width: 992px) {
+    .about-service-items{
+        grid-template-columns:1fr 1fr;
+        gap: 30px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .about-service-items{
+        grid-template-columns:1fr;
+        gap: 30px;
+    }
+    h2.sec-title-left {
+        font-size: 30px;
+    }
+}
 /* {===================service section  end ==================} */

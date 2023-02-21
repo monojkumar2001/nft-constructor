@@ -194,8 +194,8 @@ function DefiDevelopment() {
           />
         </section>
         {/* ================about us section end ================== */}
-   {/* ==============pricing range ============== */}
-   <div className="cpt-6">
+        {/* ==============pricing range ============== */}
+        <div className="cpt-6">
           <PriceRangeSlider />
         </div>
         {/* ==============pricing range end ============== */}
@@ -226,7 +226,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/2.png"
                       alt="nft-contructer"
                     />
@@ -235,7 +235,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/3.png"
                       alt="nft-contructer"
                     />
@@ -244,7 +244,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/4.png"
                       alt="nft-contructer"
                     />
@@ -253,7 +253,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/5.png"
                       alt="nft-contructer"
                     />
@@ -262,7 +262,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/6.png"
                       alt="nft-contructer"
                     />
@@ -271,7 +271,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/7.png"
                       alt="nft-contructer"
                     />
@@ -280,7 +280,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/8.png"
                       alt="nft-contructer"
                     />
@@ -289,7 +289,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/9.png"
                       alt="nft-contructer"
                     />
@@ -298,7 +298,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/10.png"
                       alt="nft-contructer"
                     />
@@ -307,7 +307,7 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/11.png"
                       alt="nft-contructer"
                     />
@@ -316,13 +316,13 @@ function DefiDevelopment() {
                 </div>
                 <div className="our-service-item">
                   <div className="our-service-icon">
-                  <img
+                    <img
                       src="/assets/images/defi/defi-service/12.png"
                       alt="nft-contructer"
                     />
                   </div>
                   <h3>Dex Development</h3>
-                </div>          
+                </div>
               </div>
             </div>
           </div>
@@ -470,9 +470,9 @@ function DefiDevelopment() {
         {/* ===================Newsletter section  ================== */}
         <Newsletter />
         {/* ===================Newsletter section end ================== */}
-          {/* ==================Features================== */}
-          <section>
-          <div id="inner-area" className="cpy-6">
+        {/* ==================Features================== */}
+        <section>
+          <div id="inner-area" className="cpt-6">
             <div className="features">
               <div className="services-decor">
                 <img
@@ -503,7 +503,9 @@ function DefiDevelopment() {
               <div className="container">
                 <div className="section-title">
                   <p className="sm-title">FEATURES OF</p>
-                  <h2 className="sec-title">Key Features of DeFi Development </h2>
+                  <h2 className="sec-title">
+                    Key Features of DeFi Development{" "}
+                  </h2>
                   <p className="sec-des">
                     Being a top NFT token development company, our non-fungible
                     token development services facilitate the digital assets to
@@ -524,20 +526,22 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/exhi-1.png"
+                          src="assets/imgs/defi-feature-icon/per-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/exhi-2.png"
+                          src="assets/imgs/defi-feature-icon/per-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Permissionless</p>
                       <p>
-                      DeFi uses an open, permission-less access model that anyone with an internet connection and a cryptocurrency wallet can access.
+                        DeFi uses an open, permission-less access model that
+                        anyone with an internet connection and a cryptocurrency
+                        wallet can access.
                       </p>
                     </div>
 
@@ -550,20 +554,22 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/con-1.png"
+                          src="assets/imgs/defi-feature-icon/pro-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/con-2.png"
+                          src="assets/imgs/defi-feature-icon/pro-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Programmability</p>
                       <p>
-                      DeFi's programmability creates new opportunities for the development of new financial instruments and digital assets.
+                        DeFi's programmability creates new opportunities for the
+                        development of new financial instruments and digital
+                        assets.
                       </p>
                     </div>
 
@@ -576,20 +582,22 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/net-1.png"
+                          src="assets/imgs/defi-feature-icon/trans-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/net-2.png"
+                          src="assets/imgs/defi-feature-icon/trans-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Transparency</p>
                       <p>
-                      For the public Ethereum blockchain, each transaction must be broadcast to all other users on the network to maintain utmost transparency.
+                        For the public Ethereum blockchain, each transaction
+                        must be broadcast to all other users on the network to
+                        maintain utmost transparency.
                       </p>
                     </div>
 
@@ -602,20 +610,22 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/con-1.png"
+                          src="assets/imgs/defi-feature-icon/immu-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/con-2.png"
+                          src="assets/imgs/defi-feature-icon/immu-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Immutability</p>
                       <p>
-                      DeFi offers the assurance of integrity for all transactions with the guarantee of safe and secure data transmission without any unauthorized modifications.
+                        DeFi offers the assurance of integrity for all
+                        transactions with the guarantee of safe and secure data
+                        transmission without any unauthorized modifications.
                       </p>
                     </div>
 
@@ -628,20 +638,23 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/lead-1.png"
+                          src="assets/imgs/defi-feature-icon/inter-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/lead-2.png"
+                          src="assets/imgs/defi-feature-icon/inter-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Interoperability </p>
                       <p>
-                      DeFi protocols are often referred to as "legos,"because of its interoperability. You must specify how to combine two DeFi protocols like Lego blocks for specific use cases.
+                        DeFi protocols are often referred to as "legos,"because
+                        of its interoperability. You must specify how to combine
+                        two DeFi protocols like Lego blocks for specific use
+                        cases.
                       </p>
                     </div>
 
@@ -654,20 +667,23 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/chat-1.png"
+                          src="assets/imgs/defi-feature-icon/high-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/chat-2.png"
+                          src="assets/imgs/defi-feature-icon/high-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>High Security</p>
                       <p>
-                      Decentralized platforms are known for having complex and impenetrable security structures. Users feel far more secure in the system because of the involvement of finance.
+                        Decentralized platforms are known for having complex and
+                        impenetrable security structures. Users feel far more
+                        secure in the system because of the involvement of
+                        finance.
                       </p>
                     </div>
 
@@ -680,20 +696,23 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/my-box-1.png"
+                          src="assets/imgs/defi-feature-icon/decen-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/my-box-2.png"
+                          src="assets/imgs/defi-feature-icon/decen-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Decentralized Transactions</p>
                       <p>
-                      DeFi is able to offer platforms decentralized exchanges without a centralized infrastructure. The transfer of funds only take place once the trade is concluded, to fully ensure their security.
+                        DeFi is able to offer platforms decentralized exchanges
+                        without a centralized infrastructure. The transfer of
+                        funds only take place once the trade is concluded, to
+                        fully ensure their security.
                       </p>
                     </div>
 
@@ -706,20 +725,23 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/business-1.png"
+                          src="assets/imgs/defi-feature-icon/non-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/business-2.png"
+                          src="assets/imgs/defi-feature-icon/non-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Non Custodial</p>
                       <p>
-                      By utilizing web3 wallets like MetaMask, users can interact with smrp financial protocols and applications more effectively while retaining total control over their assets and personal data.
+                        By utilizing web3 wallets like MetaMask, users can
+                        interact with smrp financial protocols and applications
+                        more effectively while retaining total control over
+                        their assets and personal data.
                       </p>
                     </div>
                     <div
@@ -731,20 +753,22 @@ function DefiDevelopment() {
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/online-1.png"
+                          src="assets/imgs/defi-feature-icon/global-1.png"
                           alt="nft constructer"
                         />
                         <img
                           height="auto"
                           width="auto"
-                          src="assets/imgs/meta-icon/online-2.png"
+                          src="assets/imgs/defi-feature-icon/global-2.png"
                           alt="nft constructer"
                         />
                       </div>
 
                       <p>Global Access</p>
                       <p>
-                      Since traders and entrepreneurs from all over the world can use the lending and borrowing DeFi platform, it has proven to be very helpful.
+                        Since traders and entrepreneurs from all over the world
+                        can use the lending and borrowing DeFi platform, it has
+                        proven to be very helpful.
                       </p>
                     </div>
                   </div>
@@ -755,8 +779,8 @@ function DefiDevelopment() {
         </section>
         {/* ==================Features ================== */}
 
-     {/* ===============Benefits================== */}
-     <section>
+        {/* ===============Benefits================== */}
+        <section>
           <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
             <div className="benefits-area">
               <div className="benefits-decor">
@@ -813,7 +837,9 @@ function DefiDevelopment() {
                           src="assets/img/design/5.png"
                           alt="nft constructer"
                         />
-                        <p>Usage Of <br/> Smart Contract</p>
+                        <p>
+                          Usage Of <br /> Smart Contract
+                        </p>
                       </div>
                     </div>
                     <div className="benefits-container">
@@ -824,7 +850,10 @@ function DefiDevelopment() {
                           src="assets/img/design/2.png"
                           alt="nft constructer"
                         />
-                        <p>Strategized <br/>Investment Plans</p>
+                        <p>
+                          Strategized <br />
+                          Investment Plans
+                        </p>
                       </div>
                       <div className="benefit-box">
                         <img
@@ -833,7 +862,10 @@ function DefiDevelopment() {
                           src="assets/img/design/6.png"
                           alt="nft constructer"
                         />
-                        <p>Lack Of the <br/>presence of a<br/> third party</p>
+                        <p>
+                          Lack Of the <br />
+                          presence of a<br /> third party
+                        </p>
                       </div>
                     </div>
 
@@ -854,7 +886,10 @@ function DefiDevelopment() {
                           src="assets/img/design/7.png"
                           alt="nft constructer"
                         />
-                        <p>Inmplementation <br/> of Pseudonymous <br/> Transactions</p>
+                        <p>
+                          Inmplementation <br /> of Pseudonymous <br />{" "}
+                          Transactions
+                        </p>
                       </div>
                     </div>
 
@@ -875,9 +910,7 @@ function DefiDevelopment() {
                           src="assets/img/design/8.png"
                           alt="nft constructer"
                         />
-                        <p>
-                        Interoperability
-                        </p>
+                        <p>Interoperability</p>
                       </div>
                     </div>
                     <div className="benefits-container">
@@ -900,8 +933,8 @@ function DefiDevelopment() {
         <TopProject />
         {/* ===============top project end=============== */}
 
-  {/* <!--  ============ business grow start =============--> */}
-  <section className="business-grow cpb-7">
+        {/* <!--  ============ business grow start =============--> */}
+        <section className="business-grow cpb-7">
           <div className="container">
             <div className="business-warrper">
               <div className="business-left">
@@ -961,7 +994,7 @@ function DefiDevelopment() {
         <Review />
         {/* =====================happy clients end======================= */}
         {/* ==========================faq================== */}
-        <div className="faqs-section cpt-6">
+        <div className="faqs-section cpt-6 cpb-6">
           <div className="container">
             <div className="faq-wrapper">
               <div className="left-faq">

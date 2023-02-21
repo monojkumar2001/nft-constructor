@@ -6,23 +6,89 @@ function letsTalk() {
       <div className="container">
         <div className="create-metaverse-wrapper">
           <div className="create-metaverse-left">
-            <h1 className="create-title">
-              Tell us about your brand & marketing needs
-            </h1>
+            <span>The bottom line?</span>
+            <h1 className="create-title">With Mayple you get:</h1>
             <div className="create-metaverse-list">
-              <h4>Book a demo and discovery call to get a look at:</h4>
-              <ul>
-                <li>How NFT Constructor works</li>
-                <li>
-                  How you can bring your project at scale better, faster and
-                  cheaper.
-                </li>
-                <li>
-                  How we’re different from agencies, freelancers and in-house
-                  teams.
-                </li>
-                <li>The most suitable pricing plan according to your needs.</li>
-              </ul>
+              <div className="talk-list-item">
+                <svg
+                  width="20"
+                  height="15"
+                  viewBox="0 0 20 15"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2 7L7.5 12.5L18 2"
+                    stroke="#04AA33"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                  />
+                </svg>
+                <p>
+                  <span>A marketing “dream team”</span> of top-performing
+                  experts (that none of your competitors can steal from you)
+                </p>
+              </div>
+              <div className="talk-list-item">
+                <svg
+                  width="20"
+                  height="15"
+                  viewBox="0 0 20 15"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2 7L7.5 12.5L18 2"
+                    stroke="#04AA33"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                  />
+                </svg>
+                <p>
+                  <span>A marketing “dream team”</span> of top-performing
+                  experts (that none of your competitors can steal from you)
+                </p>
+              </div>
+              <div className="talk-list-item">
+                <svg
+                  width="20"
+                  height="15"
+                  viewBox="0 0 20 15"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2 7L7.5 12.5L18 2"
+                    stroke="#04AA33"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                  />
+                </svg>
+                <p>
+                  <span>A marketing “dream team”</span> of top-performing
+                  experts (that none of your competitors can steal from you)
+                </p>
+              </div>
+              <div className="talk-list-item">
+                <svg
+                  width="20"
+                  height="15"
+                  viewBox="0 0 20 15"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2 7L7.5 12.5L18 2"
+                    stroke="#04AA33"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                  />
+                </svg>
+                <p>
+                  <span>A marketing “dream team”</span> of top-performing
+                  experts (that none of your competitors can steal from you)
+                </p>
+              </div>
             </div>
             <div className="all-company-list">
               <div className="company-img">
@@ -121,7 +187,11 @@ function letsTalk() {
                   any other purposes.
                 </p>
                 <div className="meta-forms-item">
-                  <input className="submit-btn" type="submit" value="Let’s Talk" />
+                  <input
+                    className="submit-btn"
+                    type="submit"
+                    value="Let’s Talk"
+                  />
                 </div>
               </form>
             </div>

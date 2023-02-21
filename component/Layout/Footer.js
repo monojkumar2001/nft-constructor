@@ -132,7 +132,7 @@ function Footer() {
               </div>
               <div className="col-md-6">
                 <div className="right-footer-social">
-                  <div className="last-footer-content">
+                  <div className="last-footer-content last-footercontent-2">
                     <div className="footer-links">
                       <a href="https://facebook.com/nftconstructer?_rdc=1&_rdr">
                         <div>
